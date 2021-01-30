@@ -1,7 +1,9 @@
 # Description
 Some documents I participated in writing.
 
-F19104220016.pdf is a mathematical modelling contest paper, Second Award (around 13%)
+F19104220016.pdf is a mathematical modelling contest paper, Question F.
+
+2019 China Post-Graduate Mathematical Contest in Modelling, Second Award (around 13%)
 
 Title: Flight path optimization algorithm based on space network optimization
 
